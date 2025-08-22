@@ -4,10 +4,10 @@ Later on, my master's thesis will be uploaded. In there, I have made a brief int
 
 The two codes currently uploaded are what I have used in the procedure.
 
-The first one works out an effective vertex in the high-energy (or Regge) limit. This effective vertex consists on 3 gluons, 2 of which are off-shell, while the other is on-shell. Let me call this vertex $\Omega^\mu$
+The code called "QQ-QQG" (which represents a process involving two different quarks combining into two quarks and a gluon) calculates an effective vertex in the high-energy (or Regge) limit. This effective vertex consists on 3 gluons, 2 of which are off-shell, while the other is on-shell. Let me call this vertex $\Omega^\mu$
 
-The second code works with quantum gravity and gives an effective vertex of 3 gravitons, two of which are off-shell, while the other is on-shell. Let me call this vertex $\Omega^{\mu \nu}$.
+The code, called "SS-SSG" (representing a process involving two different scalars that combine into two scalars and a graviton), works with quantum gravity and yields an effective vertex with three gravitons, two of which are off-shell, while the other is on-shell. Let me call this vertex $\Omega^{\mu \nu}$.
 
-In my master thesis, a link between these two vertices is given, with the so-called double copy structure. The naive approach would be $\Omega^{\mu \nu} = \Omega^{\mu}\Omega^{\nu}$. This does not follow the so-called Steinmann rules. We reproduce the solution proposed before, which is $\Omega^{\mu \nu} = \Omega^{\mu}\Omega^{\nu} - \mathcal{N}^\mu \mathcal{N}^\nu$. This does follow the Steinmann rules. More details can be found in the thesis.
+In my master's thesis, a link between these two vertices is given, with the so-called double copy structure. The naive approach would be $\Omega^{\mu \nu} = \Omega^{\mu}\Omega^{\nu}$. This does not follow the so-called Steinmann rules. We reproduce the solution proposed before, which is $\Omega^{\mu \nu} = \Omega^{\mu}\Omega^{\nu} - \mathcal{N}^\mu \mathcal{N}^\nu$. This does follow the Steinmann rules. More details can be found in the thesis.
 
 Finally, in the master's thesis, I talk about the application that this may have in the computations of higher-order loops, as well as the different ways that this can be upgraded.
