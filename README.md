@@ -1,6 +1,6 @@
 # Double-copy-structure-From-QCD-to-gravity
 This is my master's thesis. In here, I reproduce the result from a known article, "Graviton emission in EH gravity", with new libraries that allow the computations of QG  diagrams more straightforwardly.
-Later on, my master's thesis will be uploaded. In there, I have made a brief introduction to the double copy structure, starting from the BCJ duality in QFT, until the KLT relations in string theory. I also introduce the concept of supersymmetries, which has interest in this field. Furthermore, I introduce perturbative quantum gravity as well as the high-energy limit, with its resummation process and some useful approximations.
+An introduction to the double-copy structure as well as the details of the code can be found in the file labeled "Master_thesis". I start from the BCJ duality in QFT, to talk about the KLT relations in string theory. I also introduce the concept of supersymmetries, which has interest in this field. Furthermore, I introduce perturbative quantum gravity as well as the high-energy limit, with its resummation process and some useful approximations.
 
 The two codes currently uploaded are what I have used in the procedure.
 
